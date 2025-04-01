@@ -1,0 +1,27 @@
+<package format="3">
+  <name>traffic_con_lane</name>
+  <version>0.0.0</version>
+  <description>ROS2 package for detecting traffic cones and estimating lane/central path.</description>
+  <maintainer email="lcm20010304@gmail.com">Lee</maintainer>
+  <license>Apache License 2.0</license>
+
+  <!-- 빌드 툴 의존성 -->
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <!-- 실행 시 필요한 의존성 -->
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>cv_bridge</depend>
+
+  <!-- (선택) OpenCV 의존성 -->
+  <exec_depend>opencv-contrib-python</exec_depend>
+
+  <!-- 핵심: ament_python을 사용한다고 명시 -->
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+

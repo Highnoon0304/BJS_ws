@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: traffic_con_lane
+Version: 0.0.0
+Summary: ...
+Author: Lee
+Author-email: lcm20010304@gmail.com
+License: Apache License 2.0
+Requires-Dist: setuptools
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary

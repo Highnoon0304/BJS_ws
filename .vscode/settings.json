@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/lee/Desktop/BJS_ws/build/traffic_con_lane",
+        "/home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/lee/Desktop/BJS_ws/build/traffic_con_lane",
+        "/home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

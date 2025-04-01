@@ -1,0 +1,9 @@
+source;share/traffic_con_lane/hook/pythonpath.ps1
+source;share/traffic_con_lane/hook/pythonpath.dsv
+source;share/traffic_con_lane/hook/pythonpath.sh
+source;share/traffic_con_lane/hook/ament_prefix_path.ps1
+source;share/traffic_con_lane/hook/ament_prefix_path.dsv
+source;share/traffic_con_lane/hook/ament_prefix_path.sh
+source;../../build/traffic_con_lane/share/traffic_con_lane/hook/pythonpath_develop.ps1
+source;../../build/traffic_con_lane/share/traffic_con_lane/hook/pythonpath_develop.dsv
+source;../../build/traffic_con_lane/share/traffic_con_lane/hook/pythonpath_develop.sh

@@ -1,0 +1,22 @@
+[0.540s] Invoking command in '/home/lee/Desktop/BJS_ws/build/traffic_con_lane': PYTHONPATH=/home/lee/Desktop/BJS_ws/build/traffic_con_lane/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lee/Desktop/BJS_ws/build/traffic_con_lane/build --no-deps symlink_data
+[0.746s] running develop
+[0.886s] running egg_info
+[0.896s] creating traffic_con_lane.egg-info
+[0.896s] writing traffic_con_lane.egg-info/PKG-INFO
+[0.896s] writing dependency_links to traffic_con_lane.egg-info/dependency_links.txt
+[0.896s] writing entry points to traffic_con_lane.egg-info/entry_points.txt
+[0.896s] writing requirements to traffic_con_lane.egg-info/requires.txt
+[0.896s] writing top-level names to traffic_con_lane.egg-info/top_level.txt
+[0.896s] writing manifest file 'traffic_con_lane.egg-info/SOURCES.txt'
+[0.916s] reading manifest file 'traffic_con_lane.egg-info/SOURCES.txt'
+[0.917s] writing manifest file 'traffic_con_lane.egg-info/SOURCES.txt'
+[0.953s] running build_ext
+[0.953s] Creating /home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/python3.10/site-packages/traffic-con-lane.egg-link (link to .)
+[0.953s] Installing lane_detection_node script to /home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/traffic_con_lane
+[0.953s] 
+[0.953s] Installed /home/lee/Desktop/BJS_ws/build/traffic_con_lane
+[0.953s] running symlink_data
+[0.953s] creating /home/lee/Desktop/BJS_ws/install/traffic_con_lane/share/ament_index/resource_index/packages
+[0.953s] symbolically linking /home/lee/Desktop/BJS_ws/build/traffic_con_lane/resource/traffic_con_lane -> /home/lee/Desktop/BJS_ws/install/traffic_con_lane/share/ament_index/resource_index/packages
+[0.954s] symbolically linking /home/lee/Desktop/BJS_ws/build/traffic_con_lane/package.xml -> /home/lee/Desktop/BJS_ws/install/traffic_con_lane/share/traffic_con_lane
+[0.972s] Invoked command in '/home/lee/Desktop/BJS_ws/build/traffic_con_lane' returned '0': PYTHONPATH=/home/lee/Desktop/BJS_ws/build/traffic_con_lane/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lee/Desktop/BJS_ws/build/traffic_con_lane/build --no-deps symlink_data

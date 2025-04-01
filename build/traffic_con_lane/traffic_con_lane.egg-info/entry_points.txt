@@ -1,0 +1,2 @@
+[console_scripts]
+lane_detection_node = traffic_con_lane.lane_detection_node:main

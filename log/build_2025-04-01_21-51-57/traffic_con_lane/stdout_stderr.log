@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating traffic_con_lane.egg-info
+writing traffic_con_lane.egg-info/PKG-INFO
+writing dependency_links to traffic_con_lane.egg-info/dependency_links.txt
+writing entry points to traffic_con_lane.egg-info/entry_points.txt
+writing requirements to traffic_con_lane.egg-info/requires.txt
+writing top-level names to traffic_con_lane.egg-info/top_level.txt
+writing manifest file 'traffic_con_lane.egg-info/SOURCES.txt'
+reading manifest file 'traffic_con_lane.egg-info/SOURCES.txt'
+writing manifest file 'traffic_con_lane.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/python3.10/site-packages/traffic-con-lane.egg-link (link to .)
+Installing lane_detection_node script to /home/lee/Desktop/BJS_ws/install/traffic_con_lane/lib/traffic_con_lane
+
+Installed /home/lee/Desktop/BJS_ws/build/traffic_con_lane
+running symlink_data
+creating /home/lee/Desktop/BJS_ws/install/traffic_con_lane/share/ament_index/resource_index/packages
+symbolically linking /home/lee/Desktop/BJS_ws/build/traffic_con_lane/resource/traffic_con_lane -> /home/lee/Desktop/BJS_ws/install/traffic_con_lane/share/ament_index/resource_index/packages
+symbolically linking /home/lee/Desktop/BJS_ws/build/traffic_con_lane/package.xml -> /home/lee/Desktop/BJS_ws/install/traffic_con_lane/share/traffic_con_lane
